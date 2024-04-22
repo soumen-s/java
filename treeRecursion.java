@@ -5,7 +5,7 @@
     calling itself for more than one time.
 */
 
-public class trerRecursion
+public class treeRecursion
 {
     public static void fun(int n)
     {
