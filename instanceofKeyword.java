@@ -17,10 +17,7 @@ class Child extends Parent
     // nothing is required
 }
 
-class Check
-{
-    
-}
+
 
 class Main 
 {
